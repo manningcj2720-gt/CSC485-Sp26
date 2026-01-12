@@ -4,7 +4,7 @@
 Late one night, something unusual was found in a place everyone thought they knew well.
 
 ## The Witnesses
-Several people noticed strange events, but none reported them immediately.
+T: Two young men noticed something strange, but neither of them reported it immediately.
 
 ## Clues
 Objects, notes, and minor inconsistencies began to appear. Some were real, some misleading.

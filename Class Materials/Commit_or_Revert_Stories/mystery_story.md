@@ -16,7 +16,7 @@ A few individuals seem connected to the events, though their roles are unclear.
 Just when things seemed straightforward, new evidence complicated the case.
 
 ## Investigation
-Decisions must be made about which clues to follow and which to ignore.
+Decisions must be made about which clues to follow and which to ignore, however the detective on the case was not helpful to the investigation.
 
 ## The Outcome
 The mystery is far from resolved. What will happen next?

@@ -12,13 +12,13 @@ My name is William. But I like to go by Will.
 ## Favorite Food:
 
 What is your favorite food?
-- Burger with Fries
+- Burger
 What is your favorite cuisine?
 - Japanese
 
 ## Hobbies:
 
-- I like running, board games, working on projects, taking care of my plants, and hanging out
+- I like running, board games, working on projects, and hanging out
 
 ## What you want to do when you graduate?
 

@@ -1,7 +1,7 @@
 # About Me (You)
 
 ## Name:
-My name is <Kevin>. But I like to go by <Kevin>.
+My name is Kevin. But I like to go by Kevin.
 
 ## Major/Minors:
 
